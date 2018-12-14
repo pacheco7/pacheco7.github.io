@@ -1,1 +1,4 @@
-Teste
+---
+
+layout: home
+---
