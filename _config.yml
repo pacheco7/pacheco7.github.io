@@ -1,0 +1,13 @@
+title: Raphael Pacheco
+email: raphael.pacheco@outlook.com.br
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: r_pachecoa
+github_username:  pacheco7
+linkedin_username: raphaelpacheco
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
